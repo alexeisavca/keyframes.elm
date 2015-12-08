@@ -1,7 +1,6 @@
 module Interpolation where
 
 import Regex exposing (..)
-import Html exposing (div, text)
 import List exposing (map, foldl)
 import String exposing (toFloat)
 import Result exposing (withDefault)
