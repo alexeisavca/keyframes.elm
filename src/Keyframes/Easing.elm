@@ -1,4 +1,4 @@
-module Easing where
+module Keyframes.Easing where
 
 {-|
 Easing functions for keyframes animation.
